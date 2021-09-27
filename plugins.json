@@ -9,9 +9,19 @@
         "ApplicableVersion": "any",
 		"TestingAssemblyVersion": "1.0.0.1",
         "DalamudApiLevel": 4,
+        "ImageUrls": [
+          "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/Images/banner1.png"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/Images/icon.png",
+        "Punchline": "Clean up your messy inventories.",
+		"Tags": [
+		  "Inventory",
+		  "Sorting",
+		  "Filtering"
+		],	
         "DownloadLinkInstall": "https://github.com/Critical-Impact/PluginRepo/raw/master/plugins/InventoryTools/latest.zip",
         "IsHide": false,
-        "IsTestingExclusive": true,
+        "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Critical-Impact/PluginRepo/raw/master/plugins/InventoryTools/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Critical-Impact/PluginRepo/raw/master/plugins/InventoryTools/latest.zip",
         "DownloadCount": 0,
