@@ -19,11 +19,11 @@
 		  "Sorting",
 		  "Filtering"
 		],	
-        "DownloadLinkInstall": "https://github.com/Critical-Impact/PluginRepo/raw/master/plugins/InventoryTools/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Critical-Impact/PluginRepo/raw/main/plugins/InventoryTools/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Critical-Impact/PluginRepo/raw/master/plugins/InventoryTools/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Critical-Impact/PluginRepo/raw/master/plugins/InventoryTools/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Critical-Impact/PluginRepo/raw/main/plugins/InventoryTools/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Critical-Impact/PluginRepo/raw/main/plugins/InventoryTools/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "1632742553"
     }
