@@ -1,0 +1,19 @@
+[
+    {
+        "Author": "Critical_Impact",
+        "Name": "Inventory Tools",
+        "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
+        "InternalName": "InventoryTools",
+        "AssemblyVersion": "1.0.0.1",
+        "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 4,
+        "DownloadLinkInstall": "https://github.com/Critical-Impact/PluginRepo/raw/master/plugins/InventoryTools/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": true,
+        "DownloadLinkTesting": "https://github.com/Critical-Impact/PluginRepo/raw/master/plugins/InventoryTools/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Critical-Impact/PluginRepo/raw/master/plugins/InventoryTools/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "1632742553"
+    }
+]
