@@ -1,7 +1,7 @@
 [
     {
         "Author": "Critical_Impact",
-        "Name": "Inventory Tools",
+        "Name": "Inventory Tools (Custom Repo)",
         "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
         "InternalName": "InventoryTools",
         "AssemblyVersion": "1.0.0.1",
