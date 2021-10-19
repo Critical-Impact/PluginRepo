@@ -4,10 +4,10 @@
         "Name": "Inventory Tools (Custom Repo)",
         "Description": "Adds in a window that allows for the searching and filtering of specific items across inventories. Adds visualisation in game to see where your items should go.",
         "InternalName": "InventoryTools",
-        "AssemblyVersion": "1.0.0.4",
+        "AssemblyVersion": "1.0.0.5",
         "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
         "ApplicableVersion": "any",
-		"TestingAssemblyVersion": "1.0.0.4",
+		"TestingAssemblyVersion": "1.0.0.5",
         "DalamudApiLevel": 4,
         "ImageUrls": [
           "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/Images/banner1.png"
