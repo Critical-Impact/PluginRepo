@@ -6,7 +6,7 @@
   "Tags": ["Inventory", "Sorting", "Filtering"],
   "InternalName": "InventoryTools2",
   "AssemblyVersion": "1.2.0.9",
-  "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
+  "RepoUrl": "https://github.com/Critical-Impact/InventoryTools2",
   "ApplicableVersion": "any",
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
